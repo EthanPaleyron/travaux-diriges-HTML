@@ -1,17 +1,17 @@
 .continent {
-    color: green;
-    font-family: 'Courier New', Courier, monospace
+  color: green;
+  font-family: "Courier New", Courier, monospace;
 }
 
 li {
-    font-style: italic;
+  font-style: italic;
 }
 
 table {
-    width: 30rem;
-    border-collapse: collapse;
+  width: 30rem;
+  border-collapse: collapse;
 }
 
 th {
-    text-align: center;
+  text-align: center;
 }
